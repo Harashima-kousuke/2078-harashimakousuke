@@ -1,1 +1,2 @@
-xxxxxxxxxxxxxxxx
+Gmailのフィルタ機能とGoogleスプレッドシートを組み合わせて、Googleフォームからの通知を自動的にまとめる仕組みです。
+Googleフォームからの通知をGmailのフィルタを設定してフィルタリングします。
